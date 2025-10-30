@@ -1,7 +1,7 @@
 # Raycast – Smart Command Launcher and Automation Hub for macOS  
 
 <div align="center">
-  <img src="https://avatars.mds.yandex.net/i?id=65d74a07993d66a56fab0454a49de462afc02e2e-15286282-images-thumbs&n=13" width="250"/>
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/d2/16/80d216d3-91f0-ab1e-0ada-5abc5bbc40f0/AppIcon-85-220-5-0-0-2x-0-0.png/1200x630bb.png" width="200"/>
 </div>  
 <br>
 <div align="center">
